@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "day": "Saturday",
+    "body part": ["Chest", "Shoulders", "Triceps", "Forearms"],
+    "logo": "/Image/Saturday.png",
+    "video": "/Video/Saturday.mp4"
+  },
+  {
+    "id": 2,
+    "day": "Sunday",
+    "body part": ["Leg", "Calf", "Abs", "Biceps"],
+    "logo": "/Image/Sunday.png",
+    "video": "/Video/Sunday.mp4"
+  },
+  {
+    "id": 3,
+    "day": "Monday",
+    "body part": ["Chest", "Back", "Triceps", "Forearm"],
+    "logo": "/Image/Monday.png",
+    "video": "/Video/Monday.mp4"
+  },
+  {
+    "id": 4,
+    "day": "Tuesday",
+    "body part": ["Shoulder", "Forearm", "Calf"],
+    "logo": "/Image/Tuesday.png",
+    "video": "/Video/Tuesday.mp4"
+  },
+  {
+    "id": 5,
+    "day": "Wednesday",
+    "body part": ["Leg", "Back", "Biceps", "Abs"],
+    "logo": "/Image/Wednesday.png",
+    "video": "/Video/Wednesday.mp4"
+  },
+  {
+    "id": 6,
+    "day": "Thursday",
+    "body part": ["Chest", "Shoulders", "Triceps", "Calf"],
+    "logo": "/Image/Thursday.png",
+    "video": "/Video/Thursday.mp4"
+  },
+  {
+    "id": 7,
+    "day": "Friday",
+    "body part": ["Leg", "Back", "Biceps", "Abs"],
+    "logo": "/Image/Friday.png",
+    "video": "/Video/Friday.mp4"
+  }
+]
