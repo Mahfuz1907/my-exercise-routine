@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./src/assets/screenshot.png" alt="App Screenshot" width="600">
+  <img src="./src/assets/webhome.png" alt="App Screenshot" width="600">
 </p>
 
 # Project Name
