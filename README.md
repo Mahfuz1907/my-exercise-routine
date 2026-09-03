@@ -29,7 +29,7 @@ This project is about a simple exercise routing, which is for gym passionate who
 
 ## Project Overview
 
-This is a simple frontend web app only mobile responsive. This is made up with ReactJS and TailwindCSS. Many people are passionate about going to gym, but somehow they can't. So by using this website, a person can do their exercise in a weekly routing using just a set of dumble. No need of installation or authentication, anybody with just the link can use it.
+This is a simple frontend web app only mobile responsive. This is made up with ReactJS and TailwindCSS. Many people are passionate about going to gym, but somehow they can't. So by using this website, a person can do their exercise in a weekly routine using just a set of dumble. No need of installation or authentication, anybody with just the link can use it.
 
 ---
 
